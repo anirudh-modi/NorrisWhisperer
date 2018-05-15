@@ -1,6 +1,3 @@
-// this is for high qulatiy image
-//const dogoUrl = 'https://api.unsplash.com/photos/random?client_id=1ca24b943b101ddf61c10932bbbdcbfeb23d828f1e8bf6caf28b8dab23457574&query=dogs+funny';
-
 const dogoUrl = 'https://dog.ceo/api/breeds/image/random';
 
 const chuckyQuoteUrl = 'https://api.chucknorris.io/jokes/random';
